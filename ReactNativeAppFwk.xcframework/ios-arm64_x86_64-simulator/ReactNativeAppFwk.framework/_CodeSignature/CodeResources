@@ -10,19 +10,19 @@
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Qpon5GKHw18mS1tEpXO9gMQENC8=
+		cFNYo23hracpTq+/za2mdZFR3/Y=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		COduYHdTQnas7IO4Ye7xIjXFM2w=
+		At987N5XpaKa8/hQYVfzbCkpE5A=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		rMo+5ENIbmYAwogg6sak32hbzIQ=
+		GESap4RIdWuBTC6T9xBJjzi9DZs=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DOY8de0rSY08SLoHleRHMkSdCvA=
+		dmFjEGGczLzukYwr7wAk6dQ3Ee8=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DOY8de0rSY08SLoHleRHMkSdCvA=
+		dmFjEGGczLzukYwr7wAk6dQ3Ee8=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TRMQ3DfVbYtIaKWz77PDr3cZETc=
+		/bjGflULdDHEDWbFwQlCExj1D30=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		rMo+5ENIbmYAwogg6sak32hbzIQ=
+		GESap4RIdWuBTC6T9xBJjzi9DZs=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/tpnBbuqWt7FZ6MaFNxSOdHzhwQ=
+		jcDqGKKYv9llg7W7NhoegLOMovA=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/tpnBbuqWt7FZ6MaFNxSOdHzhwQ=
+		jcDqGKKYv9llg7W7NhoegLOMovA=
 		</data>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IoKcts2V1jJ28HcI5F50v+uAuQY=
+		66JH7OR2grpWqXnUINmMojmG65E=
 		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
@@ -76,6 +76,10 @@
 		<data>
 		dxJQFdQ77efnBkB0VBZmuIamJ4g=
 		</data>
+		<key>assets/node_modules/react-native/Libraries/NewAppScreen/components/logo.png</key>
+		<data>
+		hwwArPBahmPAndDz8m/sQmjq69Y=
+		</data>
 		<key>boost_privacy.bundle/Info.plist</key>
 		<data>
 		dz9bIlXTPTZJsIcYmWMln5+bIKg=
@@ -84,6 +88,10 @@
 		<data>
 		DjneJxsQq8ILMizTYYUlBnXFprQ=
 		</data>
+		<key>main.jsbundle</key>
+		<data>
+		yjGCBZJAq1yrkGSNcfsyBBJswl8=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -91,28 +99,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iZsEAvRRjIXCLI5Pk+VoK8axj9H09kK/zuK902rBbz4=
+			90lkYNlSIjjmrHpovHTTLBahVHbgRcrC2kYIVlTt7Nk=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9lOqkLESBrlr52pCiidMMHiksxUWH+UkjWGGheNDqz0=
+			Cfm/2pHI3t2QiBbRrZtj+O7RXwDzz51+LIaKI7Rc0fg=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			76SYvByeD+Zr7tNDHcBR5crOZUyWG3ybNBjrDf61abg=
+			LsUc2NySZr2FaIgZ0gGO96T25JQgiRnEebRsE5QsrGw=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOw8k4/ew5eOg919KvRbOPUS/lmHyHQmIglqwQdzeXs=
+			DKZ2uSFjbmHti27XKIx3dU6Ehu8ZmciDRaYmOIGHwTk=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -126,28 +134,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOw8k4/ew5eOg919KvRbOPUS/lmHyHQmIglqwQdzeXs=
+			DKZ2uSFjbmHti27XKIx3dU6Ehu8ZmciDRaYmOIGHwTk=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oFXYjBPNeOsaojwTqR8wP2JDE491ToK0GkG0WcqBIKg=
+			3fSCI/2+0racx2C1Wt/nPHHNmXsyY6F1ghAm3XLWLTQ=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			76SYvByeD+Zr7tNDHcBR5crOZUyWG3ybNBjrDf61abg=
+			LsUc2NySZr2FaIgZ0gGO96T25JQgiRnEebRsE5QsrGw=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xMrc1x6N0ewo/OFSN5JzKwXilDdV6NVwK2Waq57G7fM=
+			7I3cYgFu+v401A2jvaa85CxIzRywq2z6/EibiLICM4E=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -161,14 +169,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xMrc1x6N0ewo/OFSN5JzKwXilDdV6NVwK2Waq57G7fM=
+			7I3cYgFu+v401A2jvaa85CxIzRywq2z6/EibiLICM4E=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeAppFwk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YI1htfY7Yb0iqQIvbchoI+HrOxP553LZnVMI9RxLNGs=
+			+A5m9Tvy5YG5XNKVLtqkYu0kpo+eRu5mKx0GWpsTP4Y=
 			</data>
 		</dict>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
@@ -206,6 +214,13 @@
 			BYfRVcVqb08GR+vGtqC9AmYVzWEO6PIJqXhrealq0zU=
 			</data>
 		</dict>
+		<key>assets/node_modules/react-native/Libraries/NewAppScreen/components/logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HlGLz0C+e4y1UJHTAgdPp/WRM+/rX+wEbOX/kADhW6g=
+			</data>
+		</dict>
 		<key>boost_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -218,6 +233,13 @@
 			<key>hash2</key>
 			<data>
 			qghP7sgHQsG/S3A1yftseZHPU1YCHvIWzEM3iGnbJqA=
+			</data>
+		</dict>
+		<key>main.jsbundle</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pFEmlrWVajk9Uy5Vmvklrzmr+E++TeQ/jHQup36iehU=
 			</data>
 		</dict>
 	</dict>
